@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Màu chủ đạo - Xanh lá tiền -->
+    <color name="primary_color">#858865</color>
+
+    <!-- Màu nền chính - Trắng xám nhạt -->
+    <color name="background_primary">#F9FAFB</color>
+
+    <!-- Màu nền phụ - Xanh bạc hà nhạt -->
+    <color name="background_secondary">#E8F5E9</color>
+
+    <!-- Màu chữ chính - Xanh lá đậm -->
+    <color name="text_primary">#184332</color>
+
+    <!-- Màu chữ phụ - Xám tro -->
+    <color name="text_secondary">#687280</color>
+
+    <!-- Màu nhấn - Xanh ngọc sáng -->
+    <color name="accent_color">#2ECC71</color>
+
+    <!-- Màu cảnh báo - Đỏ cam nhẹ -->
+    <color name="error_color">#E74C3C</color>
+
+    <!-- Màu xác nhận - Xanh lá tươi -->
+    <color name="success_color">#27AE60</color>
+
+    <!-- Màu viền - Xanh rêu xám -->
+    <color name="border_color">#A9C9A4</color>
+
+    <!-- Màu trắng -->
+    <color name="white">#FFFFFF</color>
+</resources>

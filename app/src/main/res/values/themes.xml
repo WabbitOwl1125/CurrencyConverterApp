@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.CurrencyConverter" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#858865</item>
+        <item name="colorPrimaryDark">#6B6F51</item>
+        <item name="colorAccent">#2ECC71</item>
+        <item name="android:windowBackground">#F9FAFB</item>
+    </style>
+</resources>

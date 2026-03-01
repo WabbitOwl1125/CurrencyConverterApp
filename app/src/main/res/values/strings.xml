@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">2374820062_Le Anh Hieu_30</string>
+    <string name="enter_amount">Nhập số tiền</string>
+    <string name="from_currency">Từ</string>
+    <string name="to_currency">Sang</string>
+    <string name="convert">Đổi tiền</string>
+    <string name="converted_amount">Số tiền đã đổi</string>
+    <string name="exchange_history">Lịch sử giao dịch</string>
+    <string name="clear_history">Xóa lịch sử</string>
+    <string name="no_history">Chưa có lịch sử giao dịch</string>
+    <string name="error_invalid_amount">Vui lòng nhập số tiền hợp lệ</string>
+    <string name="error_same_currency">Không thể chuyển đổi cùng loại tiền</string>
+</resources>
